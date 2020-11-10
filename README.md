@@ -8,6 +8,13 @@
 - Bootstrap
 - JavaScript
 
+## To Do
+
+- [ ] Add Navbar
+- [ ] Add toggle for dark/white mode
+
+---
+
 # Author
 
 - Name - Abhinav
