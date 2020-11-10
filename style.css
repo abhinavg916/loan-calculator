@@ -1,0 +1,28 @@
+#loading,
+#results {
+  display: none;
+  margin-top: 1rem;
+}
+
+body > div {
+  min-height: 100vh;
+}
+
+footer {
+  text-align: center;
+  padding: 2rem 0;
+  line-height: 2;
+}
+
+footer p {
+  margin: 0;
+}
+
+footer a {
+  color: #333;
+}
+
+footer a:hover {
+  text-decoration: none;
+  color: #000;
+}
