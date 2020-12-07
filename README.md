@@ -8,7 +8,7 @@
 
 - HTML
 - Bootstrap
-- JavaScript (Use of DOM Manipulation, Event Handling & Local Storage)
+- JavaScript (Use of DOM Manipulation, Event Handling & Local Storage API)
 
 ---
 
